@@ -1200,7 +1200,7 @@ Spawn:
   # RespawnLocation will indicate if you want to use this location as possible respawn point for player after death
   # TeleportFrom will indicate list of worlds from which player should be teleported to this spawn point
   Main:
-    Location: world;100.46;100.0;0.52;-179.77;7.89
+    Location: world;100.46;100.0;0.52;-89.98;4.42
     RespawnLocation: false
     Rng: 0
     TeleportFrom: []

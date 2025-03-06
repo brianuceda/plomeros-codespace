@@ -1,3 +1,0 @@
-mv plomeros-codespace/* /workspaces/plomeros-codespace-2/
-mv plomeros-codespace/.* /workspaces/plomeros-codespace-2/ 2>/dev/null
-rmdir plomeros-codespace

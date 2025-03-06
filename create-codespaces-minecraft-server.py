@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# sudo sysctl -w vm.drop_caches=3
+
 # Paquetes necesarios del sistema
 import subprocess
 import sys
