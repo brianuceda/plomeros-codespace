@@ -43,7 +43,7 @@ def clean_ram_periodically():
         try:
             subprocess.run(["sudo", "sync"], capture_output=True)
             subprocess.run(["sudo", "sysctl", "-w", "vm.drop_caches=3"], capture_output=True)
-
+            
             if not first_run:
                 print("🧹 Memoria caché limpiada correctamente.")
 
