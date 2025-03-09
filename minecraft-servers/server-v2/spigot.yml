@@ -121,6 +121,8 @@ world-settings:
     simulation-distance: default
     thunder-chance: 100000
     hanging-tick-frequency: 100
+  worldeditregentempworld:
+    verbose: false
 advancements:
   disable-saving: false
   disabled:
